@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import './App.scss';
 
 const App = () => {
   return (
-    <div>Initial App</div>
+    <div className='app'>Initial App</div>
   )
 }
 
